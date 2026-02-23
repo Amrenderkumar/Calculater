@@ -1,1 +1,2 @@
 # Calculater
+using all elements 
